@@ -1,0 +1,37 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-image: url("plaid.jpg");
+}
+body {
+  background-color: #FFFFFF;
+  width:63%;
+  margin: 0 auto;
+  font: 100% Garamond, Times New Roman, serif;
+  padding: 1em;
+}
+h1 {
+  font-size: 3.6em;
+  font-weight: bold;
+  font-style: normal;
+}
+h2 {
+  font-size: 1.8em;
+  color: ##FFFFFF;
+}
+h3 {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+p {
+  line-height: 1.6em;
+  font-family: "Garamond", "Times New Roman", serif;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: normal;
+}
+
+#menu {
+  background-color: #8B8970;
+  padding: .5%;
+}
